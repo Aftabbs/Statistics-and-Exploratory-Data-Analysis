@@ -1,0 +1,28 @@
+Statistics Project is included in this file itself it includes Different Aspect which is not Linked to EDA
+Exploratory Data Analysis Project on Basketball CSV Dataset
+This is a project that explores the Basketball CSV dataset using Jupyter Notebook. The dataset contains information about various basketball players, including their championship,tournaments and other relevant data.
+
+Getting Started
+To run this project, you'll need to have Jupyter Notebook installed on your local machine. You can download and install Jupyter Notebook from the official website: https://jupyter.org/install
+
+Once you have Jupyter Notebook installed, you can download the project files and the dataset file to your local machine.
+
+Data
+The dataset used in this project is available in the basketball.csv file. It contains information about various basketball teams  and other relevant data.
+
+Usage
+To run the project, simply open the Basketball-EDA.ipynb file in Jupyter Notebook. This file contains the code and analysis for the project.
+
+You can run the code cells in the notebook to generate various plots and analysis on the dataset.
+
+Contributing
+If you find any issues or want to contribute to this project, feel free to open an issue or submit a pull request.
+
+
+Acknowledgements
+This project was completed as a part of the Statistics and Exploratory Data Analysis course. Special thanks to the course instructors for providing the dataset and guidance on this project.
+
+Feel free to modify and personalize this template to fit your project's specific details and requirements. Good luck with your project!
+
+
+
